@@ -43,7 +43,7 @@ taskManager.addTask(taskManager.newTask('Third Task', 'pending'));
 taskManager.addTask(taskManager.newTask('Final Task', 'completed'));
 taskManager.displayTasks();
 taskManager.updateTask(2, 'The Updated Task');
-console.log('filtered tasks according to status (compelted):', taskManager.filterTasksByStatus('completed'));
+console.log('filtered tasks according to status (completed):', taskManager.filterTasksByStatus('completed'));
 console.log('filtered tasks according to status (pending):', taskManager.filterTasksByStatus('pending'));
 taskManager.deleteTask(3);
 taskManager.displayTasks();
