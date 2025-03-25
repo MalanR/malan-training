@@ -1,0 +1,13 @@
+.todo-btn {
+    margin-top: 10px;
+    border: 2px solid yellow;
+}
+
+.TaskForm .todo-btn {
+    margin-top: 10px;
+    border: 2px solid yellow;
+}
+
+.TaskForm input {
+    width: 80%; /* Add this line to ensure the input field maintains its size */
+}

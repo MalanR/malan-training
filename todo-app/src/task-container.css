@@ -1,0 +1,89 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Arial', sans-serif;
+}
+
+.task-container {
+    padding: 20px;
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 35%;
+    margin: 0 auto;
+}
+
+.task-container h1 {
+    color: #f3f3f3;
+}
+
+.task-container .T {
+    color: #fffb2c;
+}
+
+.task-container .D {
+    color: #cf6679;
+}
+
+.task-container input,
+.task-container button {
+    background-color: #333;
+    color: #e0e0e0;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.task-container input {
+    width: 70%; 
+}
+
+.task-container input:focus,
+.task-container button:focus {
+    outline: none;
+    border-color: #e7e7e7;
+}
+
+.task-container button {
+    cursor: pointer;
+}
+
+.task-container button:hover {
+    background-color: #444;
+}
+
+.task-container .task {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #444;
+    border-radius: 4px;
+    background-color: #2c2c2c;
+}
+
+.task-container .task .task-text {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+.task-container .task .task-icons {
+    display: flex;
+    gap: 15px;
+    cursor: pointer;
+}
+
+.task-container p {
+    font-size: 16px;
+    color: #f3f3f3;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+    cursor: pointer;
+}
