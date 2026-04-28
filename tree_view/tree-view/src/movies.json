@@ -1,0 +1,268 @@
+{
+    "Genres": {
+        "Comedy": [
+            [
+                "Rush Hour",
+                "Rating = 6.7"
+            ],
+            [
+                "Rush Hour 2",
+                "Rating = 6.2"
+            ],
+            [
+                "Rush Hour 3",
+                "Rating = 6.3"
+            ],
+            [
+                "The Dictator",
+                "Rating = 6.4"
+            ],
+            [
+                "Borat",
+                "Rating = 6.5"
+            ],
+            [
+                "Central Intelligence",
+                "Rating = 6.6"
+            ],
+            [
+                "The Other Guys",
+                "Rating = 6.7"
+            ],
+            [
+                "Happy Gilmore",
+                "Rating = 6.8"
+            ],
+            [
+                "Click",
+                "Rating = 6.9"
+            ],
+            [
+                "Grown Ups",
+                "Rating = 7.0"
+            ],
+            [
+                "Grown Ups 2",
+                "Rating = 7.1"
+            ],
+            [
+                "The Wolf of Wall Street",
+                "Rating = 7.2"
+            ],
+            [
+                "The Hangover",
+                "Rating = 7.3"
+            ],
+            [
+                "The Hangover Part 2",
+                "Rating = 7.4"
+            ],
+            [
+                "The Hangover Part 3",
+                "Rating = 7.5"
+            ],
+            [
+                "Superbad",
+                "Rating = 7.6"
+            ],
+            [
+                "Step Brothers",
+                "Rating = 7.7"
+            ],
+            [
+                "Elf",
+                "Rating = 7.8"
+            ],
+            [
+                "Anchorman",
+                "Rating = 7.9"
+            ],
+            [
+                "Anchorman 2",
+                "Rating = 8.0"
+            ]
+        ],
+        "Drama": [
+            [
+                "The Godfather",
+                "Rating = 9.2"
+            ],
+            [
+                "Scarface",
+                "Rating = 8.3"
+            ],
+            [
+                "The Wolf of Wall Street",
+                "Rating = 8.2"
+            ],
+            [
+                "The Dark Night",
+                "Rating = 8.7"
+            ],
+            [
+                "The Dark Night Rises",
+                "Rating = 8.4"
+            ],
+            [
+                "Joker",
+                "Rating = 8.9"
+            ],
+            [
+                "The Departed",
+                "Rating = 8.8"
+            ],
+            [
+                "No Country for Old Men",
+                "Rating = 8.9"
+            ]
+        ],
+        "Action": [
+            [
+                "Superman: Man of Steel",
+                "Rating = 7.3"
+            ],
+            [
+                "Batman: The Dark Knight",
+                "Rating = 9.0"
+            ],
+            [
+                "Ironman",
+                "Rating = 7.9"
+            ],
+            [
+                "Thor",
+                "Rating = 7.0"
+            ],
+            [
+                "Captain America",
+                "Rating = 7.5"
+            ],
+            [
+                "Captain Marvel",
+                "Rating = 7.6"
+            ],
+            [
+                "Top Gun Maverick",
+                "Rating = 8.3"
+            ],
+            [
+                "Top Gun",
+                "Rating = 8.0"
+            ]
+        ],
+        "Romance": [
+            [
+                "Nottingham",
+                "Rating = 7.4"
+            ],
+            [
+                "The Notebook",
+                "Rating = 7.8"
+            ],
+            [
+                "Me before you",
+                "Rating = 7.3"
+            ],
+            [
+                "Dear John",
+                "Rating = 6.9"
+            ],
+            [
+                "ps I love you",
+                "Rating = 7.0"
+            ],
+            [
+                "The Vow",
+                "Rating = 7.1"
+            ],
+            [
+                "La La Land",
+                "Rating = 7.2"
+            ],
+            [
+                "The Longest Ride",
+                "Rating = 7.3"
+            ]
+        ],
+        "Thriller": [
+            [
+                "Split",
+                "Rating = 7.6"
+            ],
+            [
+                "The Sixth Sense",
+                "Rating = 8.2"
+            ],
+            [
+                "The Departed",
+                "Rating = 8.8"
+            ],
+            [
+                "The Silence of the Lambs",
+                "Rating = 8.6"
+            ],
+            [
+                "Insidious",
+                "Rating = 6.8"
+            ],
+            [
+                "TheConjuring",
+                "Rating = 7.5"
+            ],
+            [
+                "The Ring",
+                "Rating = 7.2"
+            ],
+            [
+                "The Grudge",
+                "Rating = 6.8"
+            ]
+        ],
+        "Sci-Fi": [
+            [
+                "The Matrix",
+                "Rating = 8.7"
+            ],
+            [
+                "The Terminator",
+                "Rating = 8.0"
+            ],
+            [
+                "The Terminator 2",
+                "Rating = 8.1"
+            ],
+            [
+                "The Terminator 3",
+                "Rating = 8.2"
+            ],
+            [
+                "The Terminator 4",
+                "Rating = 8.3"
+            ],
+            [
+                "The Terminator 5",
+                "Rating = 8.4"
+            ],
+            [
+                "The Terminator 6",
+                "Rating = 8.5"
+            ],
+            [
+                "The Terminator 7",
+                "Rating = 8.6"
+            ],
+            [
+                "The Terminator 8",
+                "Rating = 8.7"
+            ],
+            [
+                "The Terminator 9",
+                "Rating = 8.8"
+            ],
+            [
+                "The Terminator 10",
+                "Rating = 8.9"
+            ]
+        ]
+    }
+}
